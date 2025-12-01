@@ -113,9 +113,9 @@ Notebook do Google Colab
 Permite a execução interativa das análises e modelos.
 
 
-Notebook Colab 
+Notebook Colab https://colab.research.google.com/drive/1W5RpKKCSe8cf51FrCzkq35fIxjcntQLs#scrollTo=JGpPKdZm2kId
 
-Vídeo de Apresentação	
+Vídeo de Apresentação	https://youtu.be/AOHGiGMto5M
 Visão geral audiovisual das etapas, metodologia e resultados.
 
 
